@@ -1,0 +1,32 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site.master.cs" Inherits="WebChat.Site" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <title></title>
+    <link href="fontawesome-free-6.6.0-web/css/brands.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.6.0-web/css/fontawesome.css" rel="stylesheet" />
+    <link href="fontawesome-free-6.6.0-web/css/solid.css" rel="stylesheet" />
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+    <style>
+        a{
+            cursor:pointer;
+            text-decoration:none
+        }
+    </style>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div>
+            <a href="mailto:ni13ma89@gmail.com" target="_blank" style="text-decoration:none;color:black"><p style="text-align:left;" class="fa fa-headset"> </p> پشتیبانی </a>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+            <p style="text-align:center">جهت سفارش صفحه چت <a href="https://t.me/NimaAbdous"  style="color:turquoise">اینجا</a> کلیک کنید </p>
+                    <p style="text-align:center">© <a href="Menu.aspx"  style="color:turquoise">WebChat</a>, 2023  /تمامی حقوق مادی و معنوی محفوظ است</p>
+        <p style="text-align:center">Designed By <a style="color:turquoise">Nima Abdous</a> </p>
+        </div>
+    </form>
+</body>
+</html>

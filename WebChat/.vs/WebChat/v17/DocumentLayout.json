@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\CasaCo\\source\\repos\\WebChat\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A369BB4D-37FB-4C95-B971-E96E709AD5A3}|WebChat\\WebChat.csproj|C:\\Users\\CasaCo\\source\\repos\\WebChat\\webchat\\hns4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{A369BB4D-37FB-4C95-B971-E96E709AD5A3}|WebChat\\WebChat.csproj|solutionrelative:webchat\\hns4.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A369BB4D-37FB-4C95-B971-E96E709AD5A3}|WebChat\\WebChat.csproj|c:\\users\\casaco\\source\\repos\\webchat\\webchat\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}",
+      "RelativeMoniker": "D:0:0:{A369BB4D-37FB-4C95-B971-E96E709AD5A3}|WebChat\\WebChat.csproj|solutionrelative:webchat\\site.master||{B30AFBFF-D992-43B7-B62D-2642580A2883}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "hns4.aspx",
+              "DocumentMoniker": "C:\\Users\\CasaCo\\source\\repos\\WebChat\\WebChat\\hns4.aspx",
+              "RelativeDocumentMoniker": "WebChat\\hns4.aspx",
+              "ToolTip": "C:\\Users\\CasaCo\\source\\repos\\WebChat\\WebChat\\hns4.aspx",
+              "RelativeToolTip": "WebChat\\hns4.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-22T17:53:30.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Site.Master",
+              "DocumentMoniker": "C:\\Users\\CasaCo\\source\\repos\\WebChat\\WebChat\\Site.Master",
+              "RelativeDocumentMoniker": "WebChat\\Site.Master",
+              "ToolTip": "C:\\Users\\CasaCo\\source\\repos\\WebChat\\WebChat\\Site.Master",
+              "RelativeToolTip": "WebChat\\Site.Master",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-22T17:49:18.06Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

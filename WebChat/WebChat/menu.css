@@ -1,0 +1,50 @@
+﻿@font-face {
+    font-family: MyFont;
+    src: url(SHABNAM.TTF)
+}
+
+body {
+    font-family: MyFont;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    height: 100%;
+    background-color: #f4f4f4;
+    margin: 10px;
+}
+
+.button-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    max-width: 100%;
+    margin: auto;
+}
+
+    .button-container a {
+        text-decoration: none;
+        margin: 10px;
+        width: 300px;
+        text-align: center
+    }
+
+.button {
+    display: inline-block;
+    padding: 15px 30px;
+    background-color: turquoise;
+    color: white;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+    .button:hover {
+        opacity: 0.5
+    }
+
+@media (max-width: 600px) {
+    .button {
+        width: 100%;
+        text-align: center;
+    }
+}s
